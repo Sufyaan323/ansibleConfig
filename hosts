@@ -1,2 +1,2 @@
 [webservers]
-192.168.25.128 ansible_ssh_user=ansible ansible_ssh_pass=~QUxeHRtnrcsWfalhkl/7/nKNFpEwUwUT4/hIbsz9nBU
+192.168.25.128 ansible_ssh_user=ansible ansible_ssh_pass="~QUxeHRtnrcsWfalhkl/7/nKNFpEwUwUT4/hIbsz9nBU"
