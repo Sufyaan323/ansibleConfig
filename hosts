@@ -1,2 +1,2 @@
 [webservers]
-192.168.25.128 ansible_ssh_user=lab ansible_ssh_pass=changeme
+192.168.25.128 ansible_ssh_user=ansible ansible_ssh_pass=~/.ssh/id_rsa
